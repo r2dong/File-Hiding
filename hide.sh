@@ -1,8 +1,4 @@
 #!/bin/bash
-# due June 2nd 2017 @11:59PM
-# Name: Rentian Dong
-# PID: A99037372
-
 
 ignoreP=false # assume not ignoring P at first
 pArgIndex=0 # index to store next arugument after -p
